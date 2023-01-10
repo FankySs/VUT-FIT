@@ -1,0 +1,31 @@
+aa hh
+aa ff
+aa dd
+
+bb cc
+bb ee
+bb gg
+
+cc bb
+cc ff
+cc hh
+
+dd aa
+dd ee
+dd gg
+
+ee bb
+ee dd
+ee hh
+
+ff aa
+ff cc
+ff gg
+
+gg bb
+gg dd
+gg ff
+
+hh aa
+hh cc
+hh ee
